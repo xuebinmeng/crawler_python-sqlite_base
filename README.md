@@ -6,9 +6,10 @@ python3对接嵌入式数据库sqlite
 <h3>1：工具安装</h3>
 
 python3 ->  https://www.python.org/downloads/
+
 sqlite ->  python3自带SQLite3类库
 
-2：代码实现sqlite基础功能
+<h3>2：代码实现sqlite基础功能</h3>
 
 1：关系表的字段类型说明
 
